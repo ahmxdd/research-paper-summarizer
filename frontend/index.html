@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Research Paper Summarizer</title>
+  <meta name="author" content="">
+  <meta name="description" content="Summarize research papers and upload your own PDFs for analysis.">
+
+  <!-- Link to external CSS -->
+  <link href="css/styles.css" rel="stylesheet">
+</head>
+
+<body>
+  <!-- Header Section -->
+  <header>
+    <h1>Research Paper Summarizer</h1>
+    <p>Easily find and summarize research papers or upload your own PDF for instant analysis.</p>
+  </header>
+
+  <!-- Main Content -->
+  <main>
+    <!-- Search Section -->
+    <section id="search-section">
+      <h2>Search Research Papers</h2>
+      <div class="search-container">
+        <input type="text" id="search-input" placeholder="Enter a keyword or topic...">
+        <button id="search-button">Search</button>
+      </div>
+    </section>
+
+    <!-- PDF Upload Section -->
+    <section id="pdf-upload-section">
+      <h2>Summarize a PDF</h2>
+      <form id="upload-form">
+          <input type="file" id="pdf-input" accept="application/pdf">
+          <button type="button" id="upload-button">Upload and Summarize</button>
+      </form>
+      <div id="pdf-summary-section"></div>  
+      <div id="loading-spinner" class="loading-spinner hidden">
+          <img src="images/loading.gif" alt="Loading...">
+      </div>
+  </section>
+  
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 Research Summarizer App. All Rights Reserved.</p>
+  </footer>
+
+  <!-- Link to JavaScript -->
+  <script src="js/app.js"></script>
+</body>
+
+</html>

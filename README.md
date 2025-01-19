@@ -6,9 +6,10 @@ This project showcases a web application I developed that integrates advanced na
 2. Apply and understand the functionality of transformer-based NLP models, specifically Hugging Face’s BART model.
 3. Experiment with features such as section-based summarization, PDF processing, and dynamic front-end content rendering.
 4. Gain hands-on experience in building and deploying a full-stack web application.
-<img width="1440" alt="Screenshot 2025-01-19 at 12 51 32 PM" src="https://github.com/user-attachments/assets/a8838219-6851-4bc9-90fa-17729f433759" />
-<img width="1440" alt="Screenshot 2025-01-19 at 12 49 41 PM" src="https://github.com/user-attachments/assets/7c3b5152-e80c-495b-b3a1-b4b59e9f28b9" />
+
 <img width="1440" alt="Screenshot 2025-01-19 at 12 47 15 PM" src="https://github.com/user-attachments/assets/e2471782-213f-42e6-854f-2045da25f044" />
+<img width="1440" alt="Screenshot 2025-01-19 at 12 49 41 PM" src="https://github.com/user-attachments/assets/7c3b5152-e80c-495b-b3a1-b4b59e9f28b9" />
+<img width="1440" alt="Screenshot 2025-01-19 at 12 51 32 PM" src="https://github.com/user-attachments/assets/a8838219-6851-4bc9-90fa-17729f433759" />
 
 
 ---

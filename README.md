@@ -71,20 +71,7 @@ This project showcases a web application I developed that integrates advanced na
 
 ## **Future Ideas**
 
-This project serves as a foundation for exploring more advanced concepts:
-
-1. **Graphical Insights**
-   - Extract figures and tables from PDFs and display them dynamically in the frontend.
-
-2. **Summarization by Domain**
-   - Fine-tune BART or use domain-specific models for better performance on medical or technical papers.
-
-3. **User Accounts and Storage**
-   - Implement user authentication to allow users to save and revisit their summaries.
-   - Use databases like PostgreSQL or MongoDB for persistent storage.
-
-4. **Interactive UI**
-   - Gamify the user experience with badges for summarizing specific topics or exploring featured research papers.
+In the future, I would love to explore capabilities like making graphical summaries of papers, where a model could extract the overall themes and the important parts of a paper. This would require a better understanding of current NLP technologies.
 
 ---
 
